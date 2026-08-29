@@ -1,0 +1,19 @@
+project:
+  name: "AI-nak"
+  version: "0.1.0"
+  environment: "development"
+
+data:
+  root: "data"
+  raw: "data/raw"
+  interim: "data/interim"
+  processed: "data/processed"
+
+models:
+  root: "models"
+  checkpoints: "models/checkpoints"
+  trained: "models/trained"
+  artifacts: "models/artifacts"
+
+logging:
+  level: "INFO"

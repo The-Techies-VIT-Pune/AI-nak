@@ -1,0 +1,20 @@
+universe:
+  - AAPL
+  - MSFT
+  - NVDA
+  - GOOGL
+  - AMZN
+  - META
+  - TSLA
+  - JPM
+  - XOM
+  - WMT
+
+market:
+  interval: "1d"
+
+features:
+  lookback_days: 30
+
+target:
+  horizon: 1

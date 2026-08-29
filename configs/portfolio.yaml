@@ -1,0 +1,13 @@
+portfolio:
+  initial_capital: 100000
+
+  max_single_asset_weight: 0.30
+
+  minimum_cash_weight: 0.10
+
+  transaction_cost: 0.001
+
+risk:
+  downside_penalty: 1.0
+
+  turnover_penalty: 0.1

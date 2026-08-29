@@ -1,0 +1,22 @@
+baseline:
+  xgboost:
+    enabled: true
+
+  lstm:
+    enabled: true
+    sequence_length: 30
+
+dmgn:
+  enabled: false
+
+hawkes:
+  enabled: false
+
+vmse:
+  enabled: false
+
+tmft:
+  enabled: false
+
+ensemble:
+  enabled: false
